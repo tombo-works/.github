@@ -1,7 +1,6 @@
-# [Tombo Works](https://www.tombo-works.com/)
-
----
+# [<img src="https://github.com/tombo-works/.github/raw/main/assets/images/tombo_works_logo.png">](https://www.tombo-works.com/)
 
 ## 製品
 
-[Pocket LANcher](https://www.pocket-lancher.com/)
+[<img src="https://github.com/tombo-works/.github/raw/main/assets/images/pocket_lancher_logo.png" width="300px">](https://www.pocket-lancher.com/)
+
